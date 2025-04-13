@@ -4,3 +4,5 @@ let useType= 'man'
 const testfunc = ()=> {
     return true
 }
+
+let userName= "miladagain"
